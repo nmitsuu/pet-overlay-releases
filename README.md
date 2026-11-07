@@ -2,7 +2,7 @@
 
 Downloads for Pet Overlay (Aion 2). The app checks this page by itself and installs updates on its own.
 
-**First install:** download `PetOverlay.zip`, unzip it anywhere (for example your Documents), and open
+**First install:** download [PetOverlay.zip](https://github.com/nmitsuu/pet-overlay-releases/releases/latest/download/PetOverlay.zip), unzip it anywhere (for example your Documents), and open
 `Pet Overlay.exe`. If Windows shows "Windows protected your PC", click **More info** then **Run anyway**
 (the app isn't signed). If the PC doesn't have Npcap yet, its official installer opens once: click Install.
 
